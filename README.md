@@ -5,6 +5,7 @@ Notre base de données comprend environ 60 tables qui modélisent différents as
 
 Pour l'utiliser :
 Avoir Myqsl installé localement.
+
 Executer le sript :
 - "twitch_mpd.sql" pour créer les tables et un utilisateur qui possède les droits complets sur les données dans cette bdd.
   Nom : admin MDP : 1234.
