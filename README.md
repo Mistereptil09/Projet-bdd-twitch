@@ -11,4 +11,5 @@ Executer le sript :
 
   Nom : admin MDP : 1234.
 - "Full Insert Script.sql" pour inserer les données.
-- 
+- "Requetes.sql" pour avoir des selects avec des jointures, des updates et des suppressions de données
+
