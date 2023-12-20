@@ -20,5 +20,5 @@ Les fichiers "MCD projet twitch.png" et "MLD projet twitch.png" sont les images 
 License :
 Ce projet est sous licence MIT. Vous êtes libre de l’utiliser, de le modifier et de le partager. N’oubliez pas de mentionner la source !
 
-Note: 
+Note : 
 Ce projet a été réalisé dans le cadre de mes études. Si vous avez des questions ou des suggestions, n’hésitez pas à nous contacter. Bon streaming !
