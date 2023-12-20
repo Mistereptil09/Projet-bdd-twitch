@@ -13,3 +13,7 @@ Executer le sript :
 - "Full Insert Script.sql" pour inserer les données.
 - "Requetes.sql" pour avoir des selects avec des jointures, des updates et des suppressions de données
 
+Les fichiers "MCD projet twitch.png" et "MLD projet twitch.png" sont les images respectives du modèle conceptuel de données et du modèle logique de données.
+
+- Le MCD à été fait sur draw.io puis exporté en png.
+- Le MPD à été fait sur MysqlWorkbench puis exporté en png.
