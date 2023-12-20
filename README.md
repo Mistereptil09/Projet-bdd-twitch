@@ -5,4 +5,6 @@ Notre base de données comprend environ 60 tables qui modélisent différents as
 
 Pour l'utiliser :
 Avoir Myqsl installé localement.
-Executer le sript 
+Executer le sript :
+- "twitch_mpd.sql" pour créer les tables.
+- "
